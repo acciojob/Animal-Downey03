@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+#animal-photos{
+	background-color:#616161;
+	padding:25px;
+}
+#container{
+	display: flex;
+	flex-flow: wrap row;
+	flex-basic: px;
+	gap:10px;
+}
+div h1{
+	display:inline-block;
+	
+}
+img{
+	width:33%;
+	border-radius: 10%;
+}
